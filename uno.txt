@@ -1,1 +1,2 @@
-archivo para git pruebas de gitKraken
+archivo para git pruebas de gitKraken 
+siguiendo pruebas
